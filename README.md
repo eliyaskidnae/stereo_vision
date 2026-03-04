@@ -775,19 +775,19 @@ def pipeline(left_image, right_image, object_class):
 Below are the results:
 
 
-<video src="assets/249911304-f10614c9-8441-4789-b6dd-87c9be27d74c.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/e05a4084-ae7c-49c1-8bd7-674beabd66be" controls="controls" style="max-width: 730px;">
 </video>
 
 
-<video src="assets/249911270-5ae69b2a-a98e-4a7d-81dd-07c184ad6fd6.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/9bcc2135-9ebb-4d2a-bedd-2162bbf055bb" controls="controls" style="max-width: 730px;">
 </video>
 
   
-<video src="assets/249911483-d5ec731e-192b-4594-80b0-4ec5080de8ee.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/3350e737-33cd-41b6-9de8-ff6e4cc93dbf" controls="controls" style="max-width: 730px;">
 </video>
 
 
-<video src="assets/249911713-654c0d91-e491-4daa-aa58-b57f3f16833b.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/3242c94b-3094-44e1-87f6-a544ee624fec" controls="controls" style="max-width: 730px;">
 </video>
 
 
