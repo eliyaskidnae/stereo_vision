@@ -781,10 +781,6 @@ Below are the results:
 <video src="https://github.com/user-attachments/assets/e05a4084-ae7c-49c1-8bd7-674beabd66be" controls="controls" style="max-width: 730px;">
 </video>
 
-
-<video src="https://github.com/user-attachments/assets/9bcc2135-9ebb-4d2a-bedd-2162bbf055bb" controls="controls" style="max-width: 730px;">
-</video>
-
   
 <video src="https://github.com/user-attachments/assets/3350e737-33cd-41b6-9de8-ff6e4cc93dbf" controls="controls" style="max-width: 730px;">
 </video>
