@@ -554,7 +554,7 @@ Our output is a depth map that outputs the depth of each pixel.
 
 The depth map represents ```per-pixel depth estimation```. However, we are interested in getting the depth or distances of some specific obstacles such as cars or pedestrians. Hence, we will use an object detection algorithm in order to segment our depth map and get the distances of these objects only.
 
-assets/249911285-1f402ee7-fa2c-45ba-90d7-4be6de7ca684.mp4
+
 
 ### 4.6 Object Detection
 The next step is to use ```YOLOv8``` to detect objects in our frames. We want to get the **coordinates** of the **bounding boxes**.
@@ -728,7 +728,7 @@ In this example, we have a difference of ```0.61 m```.
 </div>
 
 
-### 4.9 Pipeline`
+### 4.9 Pipeline
 
 Finally, we want to create a ```pipeline``` function whereby:
 
@@ -777,7 +777,7 @@ Below are the results:
 
 <video src="assets/249911304-f10614c9-8441-4789-b6dd-87c9be27d74c.mp4" controls="controls" style="max-width: 730px;">
 </video>
-`
+
 
 <video src="assets/249911270-5ae69b2a-a98e-4a7d-81dd-07c184ad6fd6.mp4" controls="controls" style="max-width: 730px;">
 </video>
