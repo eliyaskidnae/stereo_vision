@@ -555,6 +555,9 @@ Our output is a depth map that outputs the depth of each pixel.
 The depth map represents ```per-pixel depth estimation```. However, we are interested in getting the depth or distances of some specific obstacles such as cars or pedestrians. Hence, we will use an object detection algorithm in order to segment our depth map and get the distances of these objects only.
 
 
+<video src="https://github.com/user-attachments/assets/9bcc2135-9ebb-4d2a-bedd-2162bbf055bb" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ### 4.6 Object Detection
 The next step is to use ```YOLOv8``` to detect objects in our frames. We want to get the **coordinates** of the **bounding boxes**.
