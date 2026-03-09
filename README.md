@@ -9,6 +9,7 @@ This project presents an economical alternative to LiDAR sensors for ```per-pixe
 
 <video src="https://github.com/user-attachments/assets/3242c94b-3094-44e1-87f6-a544ee624fec" controls="controls" style="max-width: 730px;">
 </video>
+
 ## Dataset
 For this project, the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) will be utilized, specifically the stereo camera images. The dataset includes a comprehensive [3D object detection benchmark](https://www.cvlibs.net/datasets/kitti/raw_data.php), comprising ```7,481``` training images and ```7,518``` test images. These images are accompanied by corresponding point clouds, providing a total of ```80,256``` labeled objects for analysis. Additionally, the ```synchronized and rectified raw data``` from the KITTI dataset will be employed during the **inference** stage of the project, further enhancing the accuracy and reliability of the results. The availability of this rich dataset enables thorough exploration and evaluation of the proposed methods and ensures robustness in the project's findings.
 
