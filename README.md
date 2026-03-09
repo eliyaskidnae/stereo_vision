@@ -17,7 +17,7 @@ we want to create a ```pipeline``` function whereby:
 4. Run an **object detection**
 5. Display the **distances** with their **bounding boxes**.
 
-<video src="https://github.com/user-attachments/assets/3242c94b-3094-44e1-87f6-a544ee624fec" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/e05a4084-ae7c-49c1-8bd7-674beabd66be" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Dataset
