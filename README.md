@@ -7,6 +7,16 @@ In the context of drone deliveries, it is crucial not only to detect obstacles i
 This project presents an economical alternative to LiDAR sensors for ```per-pixel depth estimation``` in drone applications. By utilizing ```block matching``` and ```Semi-Global Block Matching (SGBM)``` algorithms, we showcase how stereo computer vision techniques can accurately determine depth information. The block matching algorithm efficiently establishes ```correspondences``` between stereo camera images, while the SGBM algorithm optimizes the ```disparity map``` estimation process. 
 
 
+## Pipeline
+
+we want to create a ```pipeline``` function whereby:
+
+1. We take in all **left** and **right** images
+2. Calculate the **disparity**
+3. Create a **depth map**
+4. Run an **object detection**
+5. Display the **distances** with their **bounding boxes**.
+
 <video src="https://github.com/user-attachments/assets/3242c94b-3094-44e1-87f6-a544ee624fec" controls="controls" style="max-width: 730px;">
 </video>
 
